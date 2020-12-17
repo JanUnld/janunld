@@ -1,3 +1,1 @@
-### Hi there 👋
-
-![](./sloth.gif)
+![](./personal-space-show.gif)
